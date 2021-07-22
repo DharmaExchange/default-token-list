@@ -40,14 +40,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/16830/small/cUixn42.png?1625580669"
   },
   {
-    "name": "Derive LP (stablecoin)",
-    "address": "0x2f2B80e513aCe1F0F5a4D0aF6c5eDfAb75BC0De9",
-    "symbol": "dUSD",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://derive.fi/static/media/logo-dark.b6f0e21c.svg"
-  },
-  {
     "name": "Derive LP (DAI/USDC/USDT/OUSD)",
     "address": "0x2f2B80e513aCe1F0F5a4D0aF6c5eDfAb75BC0De9",
     "symbol": "deriveUSD",
