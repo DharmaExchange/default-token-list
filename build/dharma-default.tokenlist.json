@@ -1,10 +1,10 @@
 {
   "name": "Dharma Default List",
-  "timestamp": "2021-07-22T20:04:23.053Z",
+  "timestamp": "2021-07-22T20:07:32.143Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
@@ -25,14 +25,6 @@
       "name": "Derive LP (DAI/USDC/USDT/OUSD)",
       "address": "0x2f2B80e513aCe1F0F5a4D0aF6c5eDfAb75BC0De9",
       "symbol": "deriveUSD",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://derive.fi/static/media/logo-dark.b6f0e21c.svg"
-    },
-    {
-      "name": "Derive LP (stablecoin)",
-      "address": "0x2f2B80e513aCe1F0F5a4D0aF6c5eDfAb75BC0De9",
-      "symbol": "dUSD",
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://derive.fi/static/media/logo-dark.b6f0e21c.svg"
