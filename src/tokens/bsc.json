@@ -9,7 +9,7 @@
   },
   {
     "name": "Dai Stablecoin",
-    "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+    "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 56,
@@ -17,7 +17,7 @@
   },
   {
     "name": "USDC stablecoin",
-    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
     "symbol": "USDC",
     "decimals": 18,
     "chainId": 56,
@@ -25,7 +25,7 @@
   },
   {
     "name": "USDT stablecoin",
-    "address": "0x55d398326f99059ff775485246999027b3197955",
+    "address": "0x55d398326f99059fF775485246999027B3197955",
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 56,
@@ -33,7 +33,7 @@
   },
   {
     "name": "Synth oUSD stablecoin",
-    "address": "0x6bf2be9468314281cd28a94c35f967cafd388325",
+    "address": "0x6BF2Be9468314281cD28A94c35f967caFd388325",
     "symbol": "OUSD",
     "decimals": 18,
     "chainId": 56,
@@ -41,10 +41,26 @@
   },
   {
     "name": "Derive LP (stablecoin)",
-    "address": "0x2f2b80e513ace1f0f5a4d0af6c5edfab75bc0de9",
+    "address": "0x2f2B80e513aCe1F0F5a4D0aF6c5eDfAb75BC0De9",
     "symbol": "dUSD",
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://derive.fi/static/media/logo-dark.b6f0e21c.svg"
+  },
+  {
+    "name": "Derive LP (DAI/USDC/USDT/OUSD)",
+    "address": "0x2f2B80e513aCe1F0F5a4D0aF6c5eDfAb75BC0De9",
+    "symbol": "deriveUSD",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://derive.fi/static/media/logo-dark.b6f0e21c.svg"
+  },
+  {
+    "name": "Oikos Network Token",
+    "address": "0x18aCf236eB40c0d4824Fb8f2582EBbEcD325Ef6a",
+    "symbol": "OKS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://bscscan.com/token/images/oikos_32.png"
   }
 ]
