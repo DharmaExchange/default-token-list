@@ -54,5 +54,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://bscscan.com/token/images/oikos_32.png"
-  }
+  },
+  {
+    "name": "Derive Governance Token",
+    "address": "0x4ac8b09860519d5a17b6ad8c86603aa2f07860d6",
+    "symbol": "DRV",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://derive.fi/static/media/logo-dark.b6f0e21c.svg"
+  }  
 ]
