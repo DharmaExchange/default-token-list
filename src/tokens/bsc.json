@@ -37,6 +37,14 @@
     "symbol": "OUSD",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://minter.oikos.cash/images/currencies/oUSD.svg"
+    "logoURI": "https://assets.coingecko.com/coins/images/16830/small/cUixn42.png?1625580669"
+  },
+  {
+    "name": "Derive LP (stablecoin)",
+    "address": "0x2f2b80e513ace1f0f5a4d0af6c5edfab75bc0de9",
+    "symbol": "dUSD",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://derive.fi/static/media/logo-dark.b6f0e21c.svg"
   }
 ]
